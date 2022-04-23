@@ -13,6 +13,13 @@ Specifically, we are using the economy dataset which includes the Teams, Map pla
 #### 2. What is the most accurate model to do so?
 
 
+## About
+Please view the contents in the following order:
+1. Data_Cleaning
+2. Exploratory_Data_Analysis
+3. Machine_Learning
+
+
 ## Libraries
 
 * Pandas for general data frame handling
@@ -25,6 +32,7 @@ Specifically, we are using the economy dataset which includes the Teams, Map pla
 * Decision Tree Classifier
 * Gradient Boosting Classifier
 * Random Forest Classifier
+
 
 ## Conclusions
 
