@@ -28,7 +28,7 @@ Specifically, we are using the economy dataset which includes the Teams, Map pla
 
 ## Conclusions
 
-* It is possible to predict a round's outcome with reasonable accuracy with only the starting difference in economy.
+* It is possible to predict a round's outcome with reasonable accuracy(67%) with only the starting difference in economy.
 * Pistol rounds are indeed the most fair rounds as they are the hardest to predict.
 * Some maps really do have inherent bias towards T/CT.
 
