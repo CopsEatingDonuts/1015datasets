@@ -44,10 +44,15 @@ Specifically, we are using the economy dataset which includes the Teams, Map pla
 
 ## Contributions
 Jiang Yunjun @CopsEatingDonuts - Exploratory Data Analysis & Machine Learning
+
 Tan Pat Guan @beanorockz - Data Cleaning & Machine Learning
+
 Benjamin Yick @benjaminyjr - Slides & Presentation
 
 ## References
+
 https://scikit-learn.org/stable/modules/classes.html#module-sklearn.ensemble
+
 https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.HistGradientBoostingClassifier.html#sklearn.ensemble.HistGradientBoostingClassifier
+
 https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html#sklearn.ensemble.RandomForestClassifier
