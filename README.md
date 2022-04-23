@@ -40,14 +40,12 @@ Specifically, we are using the economy dataset which includes the Teams, Map pla
 5. Complicated algorithms may not always mean the best accuracy
 
 
-*Note: csv files have been stored via Git LFS as they are too large to be directly uploaded. Use Git if you wish to clone data from this project.*
-
 ## Contributions
 Jiang Yunjun @CopsEatingDonuts - Exploratory Data Analysis & Machine Learning
 
 Tan Pat Guan @beanorockz - Data Cleaning & Machine Learning
 
-Benjamin Yick @benjaminyjr - Slides & Presentation
+Benjamin Yick @benjaminyjr - Slides, Presentation & Documentation
 
 ## References
 
