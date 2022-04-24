@@ -39,7 +39,7 @@ Please view the contents in the following order:
 * It is possible to predict a round's outcome with reasonable accuracy(67%) with only the starting difference in economy.
 * Pistol rounds are indeed the most fair rounds as they are the hardest to predict.
 * Some maps really do have inherent bias towards T/CT.
-* Economy advantage is THE best predictor of the outcome of a round.
+* Economy advantage is the best predictor of the outcome of a round. 
 
 ## What have we learnt?
 1. Restructuring datasets to fit the requirements for machine learning
